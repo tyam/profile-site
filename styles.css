@@ -467,7 +467,6 @@ body {
   width:250vmax;
   height:250vmax;
   transform:scale3d(0.01, 0.01, 1);
-  transform-orign:center center;
   transition:transform 0.3s linear;
   z-index:0;
 }
