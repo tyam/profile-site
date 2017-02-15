@@ -312,6 +312,7 @@ a {
   flex-grow: 1;
   padding: 4rem 1rem;
   background:#CFD8DC;
+  position:relative;
 }
 @media all and (orientation:landscape) {
   .Grid {
@@ -762,6 +763,21 @@ p:first-child {
 p:last-child {
   margin-bottom:0;
 }
+
+.Icon {
+  display:block;
+  position:absolute;
+  width:4rem;
+  height:auto;
+  right:3rem;
+  top:3rem;
+  border-radius:50%;
+}
+@media all and (orientation:portrait) {
+  .Icon {
+    right:2rem;
+    top:2rem;
+  }
 
 .Profile {
 }
