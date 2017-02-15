@@ -241,7 +241,7 @@ a {
   .Layout>.head {
     display:block;
     width:100%;
-    height:100%;
+    height:100%; 
   }
   .Layout>.head>.title {
     background:rgba(255,255,255,0.65);
