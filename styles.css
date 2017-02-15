@@ -198,7 +198,7 @@ a {
 .Layout>.head>.title {
   margin:0;
   padding:0.5rem;
-  background:rgba(255,255,255,0.6);
+  background:rgba(255,255,255,0.65);
   color:black;
   display:inline-block;
   font-size:1rem;
@@ -244,13 +244,13 @@ a {
     height:100%;
   }
   .Layout>.head>.title {
-    background:rgba(255,255,255,0.6);
+    background:rgba(255,255,255,0.65);
   }
   .Layout>.body {
     display:block;
     position:absolute;
-    background:rgba(255,255,255,0.6);
-    top:55vh;
+    background:rgba(255,255,255,0.65);
+    top:48vh;
     left:5rem;
     right:1rem;
     transform: translateY(-50%);
