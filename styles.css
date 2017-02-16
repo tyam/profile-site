@@ -250,7 +250,7 @@ a {
     display:block;
     position:absolute;
     background:rgba(255,255,255,0.65);
-    top:48vh;
+    top:52%;
     left:5rem;
     right:1rem;
     transform: translateY(-50%);
