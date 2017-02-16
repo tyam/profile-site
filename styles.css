@@ -251,7 +251,7 @@ a {
     position:absolute;
     background:rgba(255,255,255,0.65);
     top:50%;
-    left:5rem;
+    left:3rem;
     right:1rem;
     transform: translateY(-50%);
     padding:1rem;
