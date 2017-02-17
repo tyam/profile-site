@@ -371,7 +371,7 @@ a {
 
 .Block._1 {
   z-index: 2;
-  background:rgba(81,30,66,1); /* #10465D, #57651F, #6E331C */
+  background:#005E78;
   color:white;
   width: 22rem;
   height: 30rem;
@@ -386,7 +386,7 @@ a {
 
 .Block._2 {
   z-index: 5;
-  background: rgba(16,70,93,1); /* #10465D; */
+  background: #512D6B;
   color:white;
   width:30rem;
   height:3rem;
@@ -405,7 +405,7 @@ a {
 
 .Block._3 {
   z-index:3;
-  background: rgba(87,101,31,1); /* 57651F */
+  background: #979E0C;
   color:white;
   width:17rem;
   height:25rem;
@@ -426,7 +426,7 @@ a {
 
 .Block._4 {
   z-index:4;
-  background:#6E331C;
+  background:#8B1928;
   color:white;
   width:15%;
   height:50%;
