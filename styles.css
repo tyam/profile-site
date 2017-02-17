@@ -371,7 +371,7 @@ a {
 
 .Block._1 {
   z-index: 2;
-  background:#005E78;
+  background:#3A204D;
   color:white;
   width: 22rem;
   height: 30rem;
@@ -386,7 +386,7 @@ a {
 
 .Block._2 {
   z-index: 5;
-  background: #512D6B;
+  background: #004356;
   color:white;
   width:30rem;
   height:3rem;
@@ -405,7 +405,7 @@ a {
 
 .Block._3 {
   z-index:3;
-  background: #979E0C;
+  background: #6C7109;
   color:white;
   width:17rem;
   height:25rem;
@@ -426,7 +426,7 @@ a {
 
 .Block._4 {
   z-index:4;
-  background:#8B1928;
+  background:#64121D;
   color:white;
   width:15%;
   height:50%;
