@@ -12,6 +12,7 @@ cp -rp ../bundle.js .
 cp -rp ../favicon.ico .
 cp -rp ../index.html .
 cp -rp ../styles.css .
+cp -rp ../circle.yml .
 echo "This branch has been generated. See 'hyperapp' branch." >README.md
 
 git add -A
