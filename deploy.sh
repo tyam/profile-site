@@ -3,7 +3,7 @@ git config --global user.name "tyam@circleci"
 
 git clone https://github.com/tyam/tyam.github.io.git deploy
 cd deploy
-git checkout deploytest
+git checkout master
 rm -fr ./*
 
 cp -rp ../icomoon .
@@ -15,4 +15,4 @@ cp -rp ../styles.css .
 
 git add -A
 git commit -a -m "update"
-git push origin deploytest
+git push origin master
