@@ -255,7 +255,7 @@ const paper2 = ({state, actions}) => (
     入社から6年余り経ち、その間に、全社的なサーバー移転や4年がかりのサービスのリニューアルなど、様々なプロジェクトを完遂してきました。<br />
     プライベートでは結婚して子供も授かりました。</p>
 
-    <p>2017年1月現在、私は40歳です。<br />
+    <p>2018年1月現在、私は40歳です。<br />
     昔のように、徹夜で仕事をしたり休日返上でプログラムを書いたりはできません。<br />
     マネージメントの仕事が増え、最新の技術に触れる機会も減りました。<br />
     それでも、今でもプログラミングへの意欲・喜びはまったく衰えていません。<br />
@@ -296,11 +296,10 @@ const paper3 = ({state, actions}) => (
       <div class="head _3_3_skill"><h3 class="title">スキル</h3></div>
       <div class="body">
       <p>サーバーは専らLinuxです。<br />
-      プログラミング言語はいろいろ使いますが、サーバー側のファーストチョイスはphpです。javaとErlangは経験があります。Goも使いたいです。<br />
-      phpフレームワークは、Laravel、CodeIgniter、FuelPHPをたしなみます。自分で選ぶならLaravelです。<br />
-      クライアント側については、基本スキルのHTML、CSS、javascriptは問題ありません。jqueryの経験が豊富です。<br />
-      最近流行りのReact/reduxやVue.jsなどは、ウォッチはしてますが本格的に使ったことはありません。<br />
-      DevOps、CIといった最近の開発周辺ツールはキャッチアップできていません。</p>
+      プログラミング言語はいろいろ使いますが、phpの経験が豊富です。ただ、最近は時勢に合わせてjavascript (NodeJS)を使う機会が増えています。<br />
+      phpフレームワークは、radarphp、Laravel、FuelPHPをたしなみます。自分で選ぶならradarphpです。<br />
+      クライアント側については、基本スキルのHTML、CSS、javascript (jquery)は問題ありません。PWA/SPAに興味があって、hyperappをやっています。<br />
+      その他、AWS、ansibleの経験があります。</p>
       </div>
       </div>
       </div>
@@ -340,17 +339,17 @@ const paper4 = ({state, actions}) => (
     <dt class="title">名前</dt>
     <dd class="desc">山田 哲央<br /><span class="Note">やまだ てつお</span></dd>
     <dt class="title">年齢</dt>
-    <dd class="desc">40歳（2017年1月現在）</dd>
+    <dd class="desc">41歳（2018年1月現在）</dd>
     <dt class="title">住まい</dt>
     <dd class="desc">千葉県千葉市</dd>
     <dt class="title">職業</dt>
     <dd class="desc">システムエンジニア／プログラマー<br /><span class="Note">モールシステムの運営会社に正社員として就業中。</span></dd>
     <dt class="title">活動</dt>
+    <dd class="desc"><a href="https://github.com/tyam" target="_blank">GitHub</a></dd>
     <dd class="desc"><a href="http://qiita.com/tyam001" target="_blank">Qiita</a></dd>
     <dd class="desc"><a href="http://b.hatena.ne.jp/tyam001/" target="_blank">はてなブックマーク</a></dd>
-    <dd class="desc"><a href="https://github.com/tyam" target="_blank">GitHub</a></dd>
-    <dd class="desc"><a href="https://twitter.com/tyam001" target="_blank">twitter</a></dd>
-    <dd class="desc"><a href="https://www.facebook.com/tetsuo.yamada.146" target="_blank">Facebook</a></dd>
+    <dd class="desc"><a href="https://twitter.com/tyam001" target="_blank">twitter</a><br /><span class="Note">SNSはあまりやりません。</span></dd>
+    <dd class="desc"><a href="https://www.facebook.com/tetsuo.yamada.146" target="_blank">Facebook</a><br /><span class="Note">SNSはあまりやりません。</span></dd>
     <dt class="title">影響を受けた本</dt>
     <dd class="desc"><a href="http://amzn.asia/gRYeQMt" target="_blank">『7つの習慣』スティーブン・R. コヴィー著</a></dd>
     <dd class="desc"><a href="http://amzn.asia/cNfhpt7" target="_blank">『計算機プログラムの構造と解釈』ハロルド エイブルソン著</a></dd>
