@@ -1,5 +1,5 @@
-git config --global user.email "tyam001@gmail.com"
-git config --global user.name "Tetsuo Yamada"
+git config --global user.email ${TYAM_CIRCLECI_EMAIL}
+git config --global user.name "tyam@circleci"
 
 git clone https://github.com/tyam/tyam.github.io.git deploy
 cd deploy
