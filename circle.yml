@@ -1,0 +1,24 @@
+general:
+  branches:
+    ignore:
+      - master
+      - deploytest
+
+machine:
+  timezone: Asia/Tokyo
+  node:
+    version: 8.2.0
+
+test:
+  override:
+    - echo "dummy"
+
+compile:
+  override:
+    - webpack
+
+deployment:
+  production:
+    branch: hyperapp
+    commands:
+      - bash ./deploy.sh
