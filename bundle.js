@@ -836,7 +836,7 @@ var paper2 = function paper2(_ref6) {
         (0, _hyperapp.h)(
           "p",
           null,
-          "2017\u5E741\u6708\u73FE\u5728\u3001\u79C1\u306F40\u6B73\u3067\u3059\u3002",
+          "2018\u5E741\u6708\u73FE\u5728\u3001\u79C1\u306F40\u6B73\u3067\u3059\u3002",
           (0, _hyperapp.h)("br", null),
           "\u6614\u306E\u3088\u3046\u306B\u3001\u5FB9\u591C\u3067\u4ED5\u4E8B\u3092\u3057\u305F\u308A\u4F11\u65E5\u8FD4\u4E0A\u3067\u30D7\u30ED\u30B0\u30E9\u30E0\u3092\u66F8\u3044\u305F\u308A\u306F\u3067\u304D\u307E\u305B\u3093\u3002",
           (0, _hyperapp.h)("br", null),
@@ -952,15 +952,13 @@ var paper3 = function paper3(_ref7) {
               null,
               "\u30B5\u30FC\u30D0\u30FC\u306F\u5C02\u3089Linux\u3067\u3059\u3002",
               (0, _hyperapp.h)("br", null),
-              "\u30D7\u30ED\u30B0\u30E9\u30DF\u30F3\u30B0\u8A00\u8A9E\u306F\u3044\u308D\u3044\u308D\u4F7F\u3044\u307E\u3059\u304C\u3001\u30B5\u30FC\u30D0\u30FC\u5074\u306E\u30D5\u30A1\u30FC\u30B9\u30C8\u30C1\u30E7\u30A4\u30B9\u306Fphp\u3067\u3059\u3002java\u3068Erlang\u306F\u7D4C\u9A13\u304C\u3042\u308A\u307E\u3059\u3002Go\u3082\u4F7F\u3044\u305F\u3044\u3067\u3059\u3002",
+              "\u30D7\u30ED\u30B0\u30E9\u30DF\u30F3\u30B0\u8A00\u8A9E\u306F\u3044\u308D\u3044\u308D\u4F7F\u3044\u307E\u3059\u304C\u3001php\u306E\u7D4C\u9A13\u304C\u8C4A\u5BCC\u3067\u3059\u3002\u305F\u3060\u3001\u6700\u8FD1\u306F\u6642\u52E2\u306B\u5408\u308F\u305B\u3066javascript (NodeJS)\u3092\u4F7F\u3046\u6A5F\u4F1A\u304C\u5897\u3048\u3066\u3044\u307E\u3059\u3002",
               (0, _hyperapp.h)("br", null),
-              "php\u30D5\u30EC\u30FC\u30E0\u30EF\u30FC\u30AF\u306F\u3001Laravel\u3001CodeIgniter\u3001FuelPHP\u3092\u305F\u3057\u306A\u307F\u307E\u3059\u3002\u81EA\u5206\u3067\u9078\u3076\u306A\u3089Laravel\u3067\u3059\u3002",
+              "php\u30D5\u30EC\u30FC\u30E0\u30EF\u30FC\u30AF\u306F\u3001radarphp\u3001Laravel\u3001FuelPHP\u3092\u305F\u3057\u306A\u307F\u307E\u3059\u3002\u81EA\u5206\u3067\u9078\u3076\u306A\u3089radarphp\u3067\u3059\u3002",
               (0, _hyperapp.h)("br", null),
-              "\u30AF\u30E9\u30A4\u30A2\u30F3\u30C8\u5074\u306B\u3064\u3044\u3066\u306F\u3001\u57FA\u672C\u30B9\u30AD\u30EB\u306EHTML\u3001CSS\u3001javascript\u306F\u554F\u984C\u3042\u308A\u307E\u305B\u3093\u3002jquery\u306E\u7D4C\u9A13\u304C\u8C4A\u5BCC\u3067\u3059\u3002",
+              "\u30AF\u30E9\u30A4\u30A2\u30F3\u30C8\u5074\u306B\u3064\u3044\u3066\u306F\u3001\u57FA\u672C\u30B9\u30AD\u30EB\u306EHTML\u3001CSS\u3001javascript (jquery)\u306F\u554F\u984C\u3042\u308A\u307E\u305B\u3093\u3002PWA/SPA\u306B\u8208\u5473\u304C\u3042\u3063\u3066\u3001hyperapp\u3092\u3084\u3063\u3066\u3044\u307E\u3059\u3002",
               (0, _hyperapp.h)("br", null),
-              "\u6700\u8FD1\u6D41\u884C\u308A\u306EReact/redux\u3084Vue.js\u306A\u3069\u306F\u3001\u30A6\u30A9\u30C3\u30C1\u306F\u3057\u3066\u307E\u3059\u304C\u672C\u683C\u7684\u306B\u4F7F\u3063\u305F\u3053\u3068\u306F\u3042\u308A\u307E\u305B\u3093\u3002",
-              (0, _hyperapp.h)("br", null),
-              "DevOps\u3001CI\u3068\u3044\u3063\u305F\u6700\u8FD1\u306E\u958B\u767A\u5468\u8FBA\u30C4\u30FC\u30EB\u306F\u30AD\u30E3\u30C3\u30C1\u30A2\u30C3\u30D7\u3067\u304D\u3066\u3044\u307E\u305B\u3093\u3002"
+              "\u305D\u306E\u4ED6\u3001AWS\u3001ansible\u306E\u7D4C\u9A13\u304C\u3042\u308A\u307E\u3059\u3002"
             )
           )
         )
@@ -1072,7 +1070,7 @@ var paper4 = function paper4(_ref8) {
           (0, _hyperapp.h)(
             "dd",
             { "class": "desc" },
-            "40\u6B73\uFF082017\u5E741\u6708\u73FE\u5728\uFF09"
+            "41\u6B73\uFF082018\u5E741\u6708\u73FE\u5728\uFF09"
           ),
           (0, _hyperapp.h)(
             "dt",
@@ -1110,6 +1108,15 @@ var paper4 = function paper4(_ref8) {
             { "class": "desc" },
             (0, _hyperapp.h)(
               "a",
+              { href: "https://github.com/tyam", target: "_blank" },
+              "GitHub"
+            )
+          ),
+          (0, _hyperapp.h)(
+            "dd",
+            { "class": "desc" },
+            (0, _hyperapp.h)(
+              "a",
               { href: "http://qiita.com/tyam001", target: "_blank" },
               "Qiita"
             )
@@ -1128,17 +1135,14 @@ var paper4 = function paper4(_ref8) {
             { "class": "desc" },
             (0, _hyperapp.h)(
               "a",
-              { href: "https://github.com/tyam", target: "_blank" },
-              "GitHub"
-            )
-          ),
-          (0, _hyperapp.h)(
-            "dd",
-            { "class": "desc" },
-            (0, _hyperapp.h)(
-              "a",
               { href: "https://twitter.com/tyam001", target: "_blank" },
               "twitter"
+            ),
+            (0, _hyperapp.h)("br", null),
+            (0, _hyperapp.h)(
+              "span",
+              { "class": "Note" },
+              "SNS\u306F\u3042\u307E\u308A\u3084\u308A\u307E\u305B\u3093\u3002"
             )
           ),
           (0, _hyperapp.h)(
@@ -1148,6 +1152,12 @@ var paper4 = function paper4(_ref8) {
               "a",
               { href: "https://www.facebook.com/tetsuo.yamada.146", target: "_blank" },
               "Facebook"
+            ),
+            (0, _hyperapp.h)("br", null),
+            (0, _hyperapp.h)(
+              "span",
+              { "class": "Note" },
+              "SNS\u306F\u3042\u307E\u308A\u3084\u308A\u307E\u305B\u3093\u3002"
             )
           ),
           (0, _hyperapp.h)(
