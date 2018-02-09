@@ -1,7 +1,8 @@
 general:
   branches:
-    only:
-      - hyperapp
+    ignore:
+      - master
+      - deploytest
 
 machine:
   timezone: Asia/Tokyo
