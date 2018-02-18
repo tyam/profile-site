@@ -463,6 +463,13 @@ body {
   max-height:100%;
   position:fixed;
 }
+.Wrap.preload * { /* to suppress animations on page loading */
+    -webkit-transition: none !important;
+    -moz-transition: none !important;
+    -ms-transition: none !important;
+    -o-transition: none !important;
+    transition: none !important;
+}
 .MenuBg {
   display:block;
   content:"";
